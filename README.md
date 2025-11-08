@@ -20,6 +20,8 @@ It allows users to perform backups, system updates, and log monitoring easily th
 ---
 
 🧩 Project Structure  
+
+
 Linux-maintenance-Anshuman-Pattanaik/
 ├── backup.sh → Automates system backups with timestamps
 ├── update.sh → Performs system updates & cleanup
