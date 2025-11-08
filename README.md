@@ -23,14 +23,13 @@ It allows users to perform backups, system updates, and log monitoring easily th
 
 
 Linux-maintenance-Anshuman-Pattanaik/
+
 ├── backup.sh → Automates system backups with timestamps
 ├── update.sh → Performs system updates & cleanup
 ├── logmonitor.sh → Monitors log files for critical alerts
 ├── menu.sh → Interactive menu for executing tasks
 └── maintenance_logs/ → Auto-created directory for logs
 
-yaml
-Copy code
 
 ---
 
